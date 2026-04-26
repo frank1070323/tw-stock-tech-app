@@ -1,5 +1,5 @@
 Flask>=3.1,<4
 gunicorn>=23,<24
 matplotlib>=3.10,<4
-mplfinance>=0.12,<1
+mplfinance
 pandas>=3,<4
